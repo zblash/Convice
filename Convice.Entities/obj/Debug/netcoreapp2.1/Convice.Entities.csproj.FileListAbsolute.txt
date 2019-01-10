@@ -1,0 +1,14 @@
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Entities.deps.json
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Entities.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Entities.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\obj\Debug\netcoreapp2.1\Convice.Entities.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Core.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Core.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Entities.runtimeconfig.json
+C:\Users\Yusuf\source\repos\Convice\Convice.Entities\bin\Debug\netcoreapp2.1\Convice.Entities.runtimeconfig.dev.json

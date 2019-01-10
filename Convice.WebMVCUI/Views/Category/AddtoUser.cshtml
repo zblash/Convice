@@ -1,0 +1,13 @@
+﻿@model Convice.WebMVCUI.Models.AddtoUserViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<form asp-controller="Category" asp-action="AddtoUser" method="post">
+    <div class="form-group">
+        <label asp-for="Category.Id">Kategori</label>
+        <select asp-for="Category.Id" class="form-control" asp-items="@(new SelectList(Model.Categories, "Id", "Name"))"></select>
+        <span asp-validation-for="Category.Id" class="form-text text-muted"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>
+

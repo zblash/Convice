@@ -1,0 +1,16 @@
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Business.deps.json
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Business.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Business.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Core.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Entities.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Entities.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\Convice.Core.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.dll
+C:\Users\Yusuf\source\repos\Convice\Convice.Business\obj\Debug\netcoreapp2.1\Convice.Business.pdb

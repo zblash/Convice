@@ -1,0 +1,16 @@
+@model Convice.WebMVCUI.Models.ListCategoryViewModel
+
+<table class="table table-bordered">
+
+    @foreach (var category in Model.Categories)
+    {
+        <tr>
+            <td>@category.Id</td>
+            <td>@category.Name</td>
+            <td>
+                <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@category.Id">X</a>
+                <a class="btn btn-info" asp-controller="Category" asp-action="Update" asp-route-id="@category.Id">Update</a>
+            </td>
+        </tr>
+    }
+</table>

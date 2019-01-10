@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\Convice\\Convice.Business\\Convice.Business.csproj",
+    "projectName": "Convice.Business",
+    "projectPath": "C:\\Users\\Yusuf\\source\\repos\\Convice\\Convice.Business\\Convice.Business.csproj",
+    "outputPath": "C:\\Users\\Yusuf\\source\\repos\\Convice\\Convice.Business\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\Yusuf\\source\\repos\\Convice\\Convice.Entities\\Convice.Entities.csproj": {
+            "projectPath": "C:\\Users\\Yusuf\\source\\repos\\Convice\\Convice.Entities\\Convice.Entities.csproj"
+          },
+          "C:\\Users\\Yusuf\\source\\repos\\Convice\\Core\\Convice.Core.csproj": {
+            "projectPath": "C:\\Users\\Yusuf\\source\\repos\\Convice\\Core\\Convice.Core.csproj"
+          },
+          "C:\\Users\\Yusuf\\source\\repos\\Convice\\DataAccess\\DataAccess.csproj": {
+            "projectPath": "C:\\Users\\Yusuf\\source\\repos\\Convice\\DataAccess\\DataAccess.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

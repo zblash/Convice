@@ -1,0 +1,7 @@
+﻿@model SelectContentsViewModel
+
+<form asp-controller="Content" asp-action="Select" method="post">
+    <select asp-for="Categories" asp-items="@(new SelectList(Model.Categories,"Id","Name"))"></select>
+    <select asp-for="Platforms" asp-items="@(new SelectList(Model.Platforms,"Id","Name"))"></select>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>

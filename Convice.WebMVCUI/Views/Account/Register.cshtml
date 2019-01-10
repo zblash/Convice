@@ -1,0 +1,40 @@
+@model Convice.WebMVCUI.Models.RegisterViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+ 
+    <form asp-controller="Account" asp-action="Register" method="post">
+        <div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+        </div>
+        <div class="form-group">
+            <label asp-for="FirstName">Ad</label>
+            <input type="text" class="form-control" asp-for="FirstName" />
+            <span asp-validation-for="FirstName" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName">Soyad</label>
+            <input type="text" class="form-control" asp-for="LastName" />
+            <span asp-validation-for="LastName" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="UserName">Kullanıcı Adı</label>
+            <input type="text" class="form-control" asp-for="UserName" />
+            <span asp-validation-for="UserName" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email">Email</label>
+            <input type="text" class="form-control" asp-for="Email" />
+            <span asp-validation-for="Email" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password">Şifre</label>
+            <input type="password" class="form-control" asp-for="Password" />
+            <span asp-validation-for="Password" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword">Şifre(Tekrar)</label>
+            <input type="password" class="form-control" asp-for="ConfirmPassword" />
+            <span asp-validation-for="ConfirmPassword" class="form-text text-muted"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>

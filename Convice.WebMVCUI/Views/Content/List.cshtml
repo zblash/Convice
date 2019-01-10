@@ -1,0 +1,19 @@
+@model Convice.WebMVCUI.Models.ListContentViewModel
+
+
+<table class="table table-bordered">
+
+    @foreach (var content in Model.Contents)
+    {
+        <tr>
+            <td>@content.Id</td>
+            <td>@content.Link</td>
+            <td>@content.CategoryId</td>
+            <td>@content.ContentType</td>
+            <td>
+                <a class="btn btn-danger" asp-controller="Content" asp-action="Delete" asp-route-id="@content.Id">X</a>
+                <a class="btn btn-info" asp-controller="Content" asp-action="Update" asp-route-id="@content.Id">Update</a>
+            </td>
+        </tr>
+    }
+</table>

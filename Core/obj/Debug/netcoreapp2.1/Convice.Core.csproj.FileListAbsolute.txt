@@ -1,0 +1,9 @@
+C:\Users\Yusuf\source\repos\Convice\Core\bin\Debug\netcoreapp2.1\Convice.Core.deps.json
+C:\Users\Yusuf\source\repos\Convice\Core\bin\Debug\netcoreapp2.1\Convice.Core.dll
+C:\Users\Yusuf\source\repos\Convice\Core\bin\Debug\netcoreapp2.1\Convice.Core.pdb
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.dll
+C:\Users\Yusuf\source\repos\Convice\Core\obj\Debug\netcoreapp2.1\Convice.Core.pdb

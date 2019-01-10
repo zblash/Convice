@@ -1,0 +1,28 @@
+@using Convice.Entities
+@model Convice.WebMVCUI.Models.UpdateContentViewModel
+
+<form asp-controller="Content" asp-action="Update" method="post">
+    <input type="hidden" asp-for="Content.Id"/>
+    <div class="form-group">
+        <label asp-for="Content.Link">İçerik Linki</label>
+        <input type="text" class="form-control" asp-for="Content.Link"/>
+        <span asp-validation-for="Content.Link" class="form-text text-muted"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Content.CategoryId">Kategori</label>
+        <select asp-for="Content.CategoryId" class="form-control" asp-items="@(new SelectList(Model.Categories, "Id", "Name",Model.Content.CategoryId))"></select>
+        <span asp-validation-for="Content.CategoryId" class="form-text text-muted"></span>
+        </div>
+    <div class="form-group">
+        <label asp-for="Content.ContentType">İçerik Türü</label>
+        <input type="text" class="form-control" asp-for="Content.ContentType"/>
+        <span asp-validation-for="Content.ContentType" class="form-text text-muted"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Content.Platform">İçerik Platformu</label>
+
+        <input type="text" class="form-control" asp-for="Content.Platform"/>
+        <span asp-validation-for="Content.Platform" class="form-text text-muted"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>

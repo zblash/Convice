@@ -1,0 +1,13 @@
+@model Convice.WebMVCUI.Models.AddCategoryViewModel
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<form asp-controller="Category" asp-action="Add" method="post">
+    <div class="form-group">
+        <label asp-for="Category.Name">Kategori İsmi</label>
+        <input type="text" class="form-control" asp-for="Category.Name"/>
+        <span asp-validation-for="Category.Name" class="form-text text-muted"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>
